@@ -3,9 +3,9 @@ entries:
   smog-alert-api:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-12-08T00:25:08.2869333+01:00"
+    created: "2020-12-08T21:40:38.0332748+01:00"
     description: A service to cache and host data from POWIETRZE.GIOS.GOV.PL
-    digest: ff0fff4d29dcf2ec8e5e7bd74c909d56a6444588d1aeeb4d811ae9c1c18943db
+    digest: 47815a70a7918859179df44464cb9d95a8822a8e74e29e29504d28b4c49e284a
     name: smog-alert-api
     urls:
     - smog-alert-api/smog-alert-api-0.1.0.tgz
@@ -13,7 +13,7 @@ entries:
   smog-alert-app:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2020-12-08T00:25:08.2869333+01:00"
+    created: "2020-12-08T21:40:38.0352625+01:00"
     description: A Helm chart for Kubernetes
     digest: 7fcd411f5c630c3f1e4c9220743ed18f4c2dae579f4e6fe463d4a3daa7921e5a
     name: smog-alert-app
@@ -21,4 +21,4 @@ entries:
     urls:
     - smog-alert-app/smog-alert-app-0.1.0.tgz
     version: 0.1.0
-generated: "2020-12-08T00:25:08.2859162+01:00"
+generated: "2020-12-08T21:40:38.0312622+01:00"
