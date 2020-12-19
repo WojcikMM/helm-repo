@@ -3,7 +3,7 @@ entries:
   smog-alert-api:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-12-19T17:08:21.7984839+01:00"
+    created: "2020-12-19T17:10:22.780859+01:00"
     description: A service to cache and host data from POWIETRZE.GIOS.GOV.PL
     digest: 9c96b46cab38b349f4ead99709a31d577beb1e0721ced70bae3a1a08d94b8ff7
     name: smog-alert-api
@@ -13,12 +13,12 @@ entries:
   smog-alert-app:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2020-12-19T17:08:21.8004892+01:00"
+    created: "2020-12-19T17:10:22.7818754+01:00"
     description: A frontend app to serve data from POWIETRZE.GIOS.GOV.PL
-    digest: 0ad282eb0ef0b09166786a14523f6c5898294ee185266bacda2d0fe5eed386d0
+    digest: bd059a1f02ff3a4d2e9044f7fac479676df3fc62990f513f9b62d28a51072a7b
     name: smog-alert-app
     type: application
     urls:
     - smog-alert-app/smog-alert-app-0.1.0.tgz
     version: 0.1.0
-generated: "2020-12-19T17:08:21.7984839+01:00"
+generated: "2020-12-19T17:10:22.7798743+01:00"
