@@ -3,22 +3,22 @@ entries:
   air-tracker-api:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-12-23T16:15:30.574727626Z"
+    created: "2020-12-23T23:35:16.3853654+01:00"
     description: A service to cache and host data from POWIETRZE.GIOS.GOV.PL
     digest: 294876913a0f4beb6f2388db992904052f6f68b82ca6a058013b5a373f502243
     name: air-tracker-api
     urls:
-    - https://WojcikMM.github.io/helm-repo/air-tracker/air-tracker-api-0.1.0.tgz
+    - air-tracker-api-0.1.0.tgz
     version: 0.1.0
   air-tracker-app:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2020-12-23T16:15:30.575235027Z"
+    created: "2020-12-23T23:35:16.3893687+01:00"
     description: A frontend app to serve data from POWIETRZE.GIOS.GOV.PL
     digest: 3b62340960e951d032ca6f6157e239525ed2f1ace89d929d043fd610640109bd
     name: air-tracker-app
     type: application
     urls:
-    - https://WojcikMM.github.io/helm-repo/air-tracker/air-tracker-app-0.1.0.tgz
+    - air-tracker-app-0.1.0.tgz
     version: 0.1.0
-generated: "2020-12-23T16:15:30.574063726Z"
+generated: "2020-12-23T23:35:16.3763137+01:00"
