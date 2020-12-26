@@ -1,9 +1,19 @@
 apiVersion: v1
 entries:
+  air-tracker-api:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-12-26T18:23:49.6881642+01:00"
+    description: A service to cache and host data from POWIETRZE.GIOS.GOV.PL
+    digest: 38b2a911c6c7ca092b4f04010079dbdb14abe58815ada8d9a37069acaecdb6b8
+    name: air-tracker-api
+    urls:
+    - air-tracker-api-0.1.0.tgz
+    version: 0.1.0
   air-tracker-app:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2020-12-26T18:23:34.9084748+01:00"
+    created: "2020-12-26T18:23:49.6881642+01:00"
     description: A frontend app to serve data from POWIETRZE.GIOS.GOV.PL
     digest: cf27170290939e5f207d144511b650a275288ec884a6e7de0752ef425ebff7f5
     name: air-tracker-app
@@ -11,4 +21,4 @@ entries:
     urls:
     - air-tracker-app-0.1.0.tgz
     version: 0.1.0
-generated: "2020-12-26T18:23:34.9074748+01:00"
+generated: "2020-12-26T18:23:49.6861412+01:00"
